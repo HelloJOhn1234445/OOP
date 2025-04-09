@@ -1,0 +1,8 @@
+
+Janet : 2
+Nathan : 1
+GLAY : 10
+Tristan : 10
+Miggy : 0
+Miggy : 3
+john : 0

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1xpXH/BfGc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\OOP_Midterms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John Rhey Tamares\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\John Rhey Tamares\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\John Rhey Tamares\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

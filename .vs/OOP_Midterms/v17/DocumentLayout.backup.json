@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|c:\\users\\john rhey tamares\\source\\repos\\oop_midterms\\oop_midterms\\formaddwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\formaddwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\oop_midterms\\frmnewgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\frmnewgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|c:\\users\\john rhey tamares\\source\\repos\\oop_midterms\\oop_midterms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|c:\\users\\john rhey tamares\\source\\repos\\oop_midterms\\oop_midterms\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\oop_midterms\\frmscoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\frmscoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\oop_midterms\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|c:\\users\\john rhey tamares\\source\\repos\\oop_midterms\\oop_midterms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|c:\\users\\john rhey tamares\\source\\repos\\oop_midterms\\oop_midterms\\frmnewgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\frmnewgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|c:\\users\\john rhey tamares\\source\\repos\\oop_midterms\\oop_midterms\\frmscoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\frmscoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\oop_midterms\\frmcustomwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\frmcustomwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\oop_midterms\\formaddwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\formaddwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|c:\\users\\john rhey tamares\\source\\repos\\oop_midterms\\oop_midterms\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\oop_midterms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|c:\\users\\john rhey tamares\\source\\repos\\oop_midterms\\oop_midterms\\oop_midterms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0B1746B1-F7EE-4481-9399-9040BAC2BF50}|OOP_Midterms\\OOP_Midterms.csproj|solutionrelative:oop_midterms\\oop_midterms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmGame.cs",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmGame.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FrmGame.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmGame.cs",
+              "RelativeToolTip": "OOP_Midterms\\FrmGame.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:52:40.259Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\Form1.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\Form1.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\Form1.cs",
+              "RelativeToolTip": "OOP_Midterms\\Form1.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAzwN8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:34:49.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmNewGame.cs",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmNewGame.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FrmNewGame.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmNewGame.cs",
+              "RelativeToolTip": "OOP_Midterms\\FrmNewGame.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:07:46.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmScoreboard.cs",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmScoreboard.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FrmScoreboard.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmScoreboard.cs",
+              "RelativeToolTip": "OOP_Midterms\\FrmScoreboard.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwF0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:08:56.366Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\Form1.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\Form1.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\Form1.cs [Design]",
+              "RelativeToolTip": "OOP_Midterms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:31:34.585Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAddwords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FormAddwords.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FormAddwords.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FormAddwords.cs [Design]",
+              "RelativeToolTip": "OOP_Midterms\\FormAddwords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:10:43.075Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmcustomWords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmcustomWords.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FrmcustomWords.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmcustomWords.cs [Design]",
+              "RelativeToolTip": "OOP_Midterms\\FrmcustomWords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:15:43.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmScoreboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmScoreboard.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FrmScoreboard.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmScoreboard.cs [Design]",
+              "RelativeToolTip": "OOP_Midterms\\FrmScoreboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:17:37.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "OOP_Midterms\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\Properties\\Resources.resx",
+              "RelativeToolTip": "OOP_Midterms\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-22T00:29:07.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OOP_Midterms",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\OOP_Midterms.csproj",
+              "RelativeDocumentMoniker": "OOP_Midterms\\OOP_Midterms.csproj",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\OOP_Midterms.csproj",
+              "RelativeToolTip": "OOP_Midterms\\OOP_Midterms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T00:28:30.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddwords.cs",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FormAddwords.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FormAddwords.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FormAddwords.cs",
+              "RelativeToolTip": "OOP_Midterms\\FormAddwords.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:28:38.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmNewGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmNewGame.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FrmNewGame.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmNewGame.cs [Design]",
+              "RelativeToolTip": "OOP_Midterms\\FrmNewGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:08:31.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\Form1.Designer.cs",
+              "RelativeToolTip": "OOP_Midterms\\Form1.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:06:36.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmGame.cs",
+              "RelativeDocumentMoniker": "OOP_Midterms\\FrmGame.cs",
+              "ToolTip": "C:\\Users\\John Rhey Tamares\\source\\repos\\OOP_Midterms\\OOP_Midterms\\FrmGame.cs [Design]",
+              "RelativeToolTip": "OOP_Midterms\\FrmGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:39:08.552Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
